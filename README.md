@@ -43,6 +43,10 @@ Outputs after applying a threshold to the UNet outputs -
 ![image](https://github.com/ayush-agarwal-0502/background-remover-for-photos/assets/86561124/b3984951-504a-40bd-b55f-dda039580fc4)
 
 
+Ofc the model couldn't capture the masks perfectly, but given more computational power (I only trained for like 30 minutes) it would definitely be able to achieve the goals 
+
+The model weights files are about 395 MB , so I cannot upload them to github :( 
+
 ## Other details - 
 
 It required about 30 minutes of training on Kaggle notebooks GPU (which I had to do multiple times as I am not an expert)
