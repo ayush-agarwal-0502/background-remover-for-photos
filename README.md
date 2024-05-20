@@ -33,7 +33,7 @@ Pure model outputs (where each pixel is output of a sigmoid function) -
 ![image](https://github.com/ayush-agarwal-0502/background-remover-for-photos/assets/86561124/7184fb12-f15b-4f9b-bd4a-41d49220d396)
 ![image](https://github.com/ayush-agarwal-0502/background-remover-for-photos/assets/86561124/06405894-1fc3-43b6-938a-31aa53b91ae9)
 ![image](https://github.com/ayush-agarwal-0502/background-remover-for-photos/assets/86561124/b315e790-0e2c-4bf9-8616-59415cc95940)
-![image](https://github.com/ayush-agarwal-0502/background-remover-for-photos/assets/86561124/6cb459d3-5eb1-448b-9844-af9773271d06)
+<!-- ![image](https://github.com/ayush-agarwal-0502/background-remover-for-photos/assets/86561124/6cb459d3-5eb1-448b-9844-af9773271d06) -->
 
 
 Outputs after applying a threshold to the UNet outputs - 
